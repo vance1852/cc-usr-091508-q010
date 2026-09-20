@@ -1,0 +1,7 @@
+.git
+*.md
+tests/
+scripts/
+build/
+dist/
+coverage/
